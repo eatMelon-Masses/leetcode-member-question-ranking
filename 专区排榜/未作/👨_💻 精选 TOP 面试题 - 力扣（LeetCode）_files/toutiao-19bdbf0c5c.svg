@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>toutiao</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="footer" transform="translate(-1148.000000, -30.000000)">
+            <g id="toutiao">
+                <g transform="translate(1148.000000, 30.000000)">
+                    <polygon id="Rectangle-path" fill="#000000" fill-rule="nonzero" opacity="0" points="0 0 20 0 20 20 0 20"></polygon>
+                    <path d="M4.01429091,11.5565091 L16.4779273,11.5565091 L16.4779273,12.8994182 L12.5070182,17.0928727 L10.0121091,17.0928727 L13.9132,12.7696 L4.01429091,12.7696 L4.01429091,11.5565091 Z M11.7941091,9.79109091 L9.75410909,9.79109091 L8.8312,8.05109091 L10.7904727,8.05109091 L11.7941091,9.79109091 Z M6.784,3.45454545 L7.91636364,4.05236364 L13.9916364,4.07854545 L16.9185455,9.84290909 L14.8894545,9.84290909 L12.3814545,5.16072727 L7.88581818,5.16072727 L5.48581818,9.84290909 L3.45454545,9.84290909 L6.784,3.45454545 Z" id="Combined-Shape" fill="#210D25"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
